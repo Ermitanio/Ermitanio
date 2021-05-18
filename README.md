@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Maxi 👋
 
+- 📌 Currently living in [Buenos Aires](https://goo.gl/maps/7HmyDMUHuLdAw17Z7).
+- 🛠  Research fellow in the [GIBIO](https://www.frba.utn.edu.ar/gibio/) laboratory.
+- 👨🏻‍💻 Advanced engineering math teacher at the University [UTN-FRBA](https://www.frba.utn.edu.ar/).
+- 🩸 [Hemocenter](https://www.hemocentro.org/) Blood Donor Club Member
+
+### ✨ Fun facts
+
+- 🔭 I'm passionate about Science!
+- ⚡ I'm a Harry Potter fan.
+- 🥁 I like to play drums.
 <!--
 **Ermitanio/Ermitanio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
